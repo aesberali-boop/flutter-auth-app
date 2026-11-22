@@ -15,6 +15,12 @@ User sign-up and login with Firebase Authentication, storing user profiles (name
 - List of all registered users
 - State management with Cubit (flutter_bloc)
 
+## Screenshots
+
+| Welcome | Log in | Sign up |
+|:---:|:---:|:---:|
+| <img src="screenshots/01-welcome.png" width="240" alt="Welcome" /> | <img src="screenshots/02-login.png" width="240" alt="Log in" /> | <img src="screenshots/03-signup.png" width="240" alt="Sign up" /> |
+
 ## Tech stack
 
 Flutter, Firebase Auth, Cloud Firestore, flutter_bloc (Cubit), fluttertoast
